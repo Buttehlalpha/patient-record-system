@@ -1,4 +1,4 @@
-```json
+
 {
   "name": "tanstack_start_ts",
   "private": true,
@@ -91,4 +91,4 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "vite"
 }
-```
+
